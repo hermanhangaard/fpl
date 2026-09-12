@@ -10,7 +10,7 @@
    ],
    "chip": "Bench Boost",
    "fornavn": "Hans Magnus",
-   "gw_poeng": 24,
+   "gw_poeng": 31,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Isak",
@@ -20,14 +20,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -394,14 +392,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -462,7 +458,7 @@
    ],
    "chip": null,
    "fornavn": "Lasse",
-   "gw_poeng": 20,
+   "gw_poeng": 27,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -472,14 +468,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -622,9 +616,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -684,7 +676,7 @@
    ],
    "chip": null,
    "fornavn": "Aasmund",
-   "gw_poeng": 25,
+   "gw_poeng": 32,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "João Pedro",
@@ -694,14 +686,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1061,14 +1051,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1390,9 +1378,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Pedro Porro",
      "poeng": 0,
@@ -1498,9 +1484,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1512,14 +1496,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Van de Ven",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1560,7 +1542,7 @@
    ],
    "chip": null,
    "fornavn": "Olav",
-   "gw_poeng": 16,
+   "gw_poeng": 18,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1678,14 +1660,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Marmoush",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
