@@ -214,7 +214,7 @@
    ],
    "chip": null,
    "fornavn": "Are",
-   "gw_poeng": 73,
+   "gw_poeng": 90,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -248,14 +248,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -346,14 +344,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -422,7 +418,7 @@
    ],
    "chip": null,
    "fornavn": "Lasse",
-   "gw_poeng": 76,
+   "gw_poeng": 86,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -528,14 +524,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -624,7 +618,7 @@
    ],
    "chip": null,
    "fornavn": "Aasmund",
-   "gw_poeng": 60,
+   "gw_poeng": 62,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "João Pedro",
@@ -658,14 +652,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
      "poeng": 0,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -720,14 +712,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -816,7 +806,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 4
   },
   "4068784": {
    "beste_gw_nr": 2,
@@ -1049,14 +1039,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
      "poeng": 0,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1099,9 +1087,7 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Elanga",
      "poeng": 0,
@@ -1226,7 +1212,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 59,
+   "gw_poeng": 69,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1344,14 +1330,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1419,7 +1403,7 @@
    "verste_gw_nr": 1
   },
   "7150571": {
-   "beste_gw_nr": 2,
+   "beste_gw_nr": 4,
    "bytter": [
     {
      "inn": "Cherki",
@@ -1623,7 +1607,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 65,
+   "gw_poeng": 75,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1729,14 +1713,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
