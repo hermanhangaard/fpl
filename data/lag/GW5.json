@@ -20,9 +20,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
      "poeng": 0,
@@ -244,9 +242,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
      "poeng": 0,
@@ -465,9 +461,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
      "poeng": 0,
@@ -615,9 +609,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1041,9 +1033,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
      "poeng": 0,
@@ -1659,9 +1649,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1673,9 +1661,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van de Ven",
      "poeng": 0,
@@ -1763,9 +1749,7 @@
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Cash",
      "poeng": 0,
