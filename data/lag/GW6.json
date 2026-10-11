@@ -166,9 +166,7 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Szoboszlai",
      "poeng": 0,
@@ -180,23 +178,19 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Isak",
      "poeng": 0,
@@ -222,7 +216,7 @@
    ],
    "chip": null,
    "fornavn": "Are",
-   "gw_poeng": 57,
+   "gw_poeng": 63,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Mbeumo",
@@ -354,14 +348,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": true
     },
@@ -421,7 +413,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Lasse",
-   "gw_poeng": 56,
+   "gw_poeng": 71,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -515,14 +507,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Semenyo",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -541,14 +531,12 @@
     {
      "kaptein": true,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -620,7 +608,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Aasmund",
-   "gw_poeng": 47,
+   "gw_poeng": 53,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "B.Fernandes",
@@ -742,14 +730,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": true
     },
@@ -874,7 +860,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Didrik",
-   "gw_poeng": 73,
+   "gw_poeng": 93,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Rogers",
@@ -932,28 +918,24 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gvardiol",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Cherki",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -996,14 +978,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": true
     },
@@ -1075,7 +1055,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Jarle Andre",
-   "gw_poeng": 63,
+   "gw_poeng": 85,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1147,14 +1127,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Cherki",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1209,14 +1187,12 @@
     {
      "kaptein": true,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1247,9 +1223,7 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Isak",
      "poeng": 0,
@@ -1261,9 +1235,7 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Gakpo",
      "poeng": 0,
@@ -1289,7 +1261,7 @@
    ],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 21,
+   "gw_poeng": 39,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Barnes",
@@ -1299,14 +1271,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Donnarumma",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1351,14 +1321,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Enzo",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1427,14 +1395,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": true
     },
@@ -1453,14 +1419,12 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Virgil",
      "poeng": 0,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1525,7 +1489,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Olav",
-   "gw_poeng": 55,
+   "gw_poeng": 85,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1571,28 +1535,24 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Guéhi",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Cherki",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1623,14 +1583,12 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "MCI (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Wirtz",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1649,14 +1607,12 @@
     {
      "kaptein": true,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1737,7 +1693,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 66,
+   "gw_poeng": 72,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Rogers",
@@ -1867,14 +1823,12 @@
     {
      "kaptein": false,
      "lag_kode": 43,
-     "motstander": [
-      "LIV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Haaland",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
