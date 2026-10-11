@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Hans Magnus",
-   "gw_poeng": 47,
+   "gw_poeng": 50,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Rogers",
@@ -70,14 +70,12 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Mendy",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -224,7 +222,7 @@
    ],
    "chip": null,
    "fornavn": "Are",
-   "gw_poeng": 55,
+   "gw_poeng": 57,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Mbeumo",
@@ -294,14 +292,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -595,14 +591,12 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Slater",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -880,7 +874,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Didrik",
-   "gw_poeng": 70,
+   "gw_poeng": 73,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Rogers",
@@ -926,14 +920,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "HUL (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1030,14 +1022,12 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Tzolakis",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1085,7 +1075,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Jarle Andre",
-   "gw_poeng": 60,
+   "gw_poeng": 63,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1121,14 +1111,12 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Ajayi",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1173,14 +1161,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gibbs-White",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1237,28 +1223,24 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Tzolakis",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Egan",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1307,7 +1289,7 @@
    ],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 19,
+   "gw_poeng": 21,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Barnes",
@@ -1345,28 +1327,24 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "N.Williams",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Muñoz",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1501,14 +1479,12 @@
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Ndoye",
-     "poeng": 0,
+     "poeng": 7,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     }
@@ -1723,28 +1699,24 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Ajayi",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Slater",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     }
@@ -1765,7 +1737,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 62,
+   "gw_poeng": 66,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Rogers",
@@ -1787,14 +1759,12 @@
     {
      "kaptein": false,
      "lag_kode": 31,
-     "motstander": [
-      "NFO (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Mitchell",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1935,28 +1905,24 @@
     {
      "kaptein": false,
      "lag_kode": 88,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Belloumi",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 17,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "N.Williams",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
