@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Hans Magnus",
-   "gw_poeng": 50,
+   "gw_poeng": 51,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Rogers",
@@ -32,14 +32,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "NEW (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "van Ewijk",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -216,7 +214,7 @@
    ],
    "chip": null,
    "fornavn": "Are",
-   "gw_poeng": 63,
+   "gw_poeng": 64,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Mbeumo",
@@ -298,14 +296,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -608,7 +604,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Aasmund",
-   "gw_poeng": 53,
+   "gw_poeng": 55,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "B.Fernandes",
@@ -642,14 +638,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -692,14 +686,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1055,7 +1047,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Jarle Andre",
-   "gw_poeng": 85,
+   "gw_poeng": 86,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1077,14 +1069,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1261,7 +1251,7 @@
    ],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 39,
+   "gw_poeng": 42,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Barnes",
@@ -1283,14 +1273,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1345,14 +1333,12 @@
     {
      "kaptein": true,
      "lag_kode": 4,
-     "motstander": [
-      "COV (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
