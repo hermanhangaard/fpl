@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Hans Magnus",
-   "gw_poeng": 51,
+   "gw_poeng": 56,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Rogers",
@@ -35,7 +35,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "van Ewijk",
-     "poeng": 1,
+     "poeng": 6,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -214,7 +214,7 @@
    ],
    "chip": null,
    "fornavn": "Are",
-   "gw_poeng": 64,
+   "gw_poeng": 65,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Mbeumo",
@@ -299,7 +299,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 7,
      "spilt": true,
      "type": 3,
@@ -641,7 +641,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 1,
+     "poeng": 0,
      "posisjon": 3,
      "spilt": true,
      "type": 2,
@@ -689,7 +689,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 7,
      "spilt": true,
      "type": 3,
@@ -792,7 +792,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 4
+   "verste_gw_nr": 6
   },
   "4068784": {
    "beste_gw_nr": 2,
@@ -1043,11 +1043,11 @@
    "verste_gw_nr": 5
   },
   "5100037": {
-   "beste_gw_nr": 4,
+   "beste_gw_nr": 6,
    "bytter": [],
    "chip": null,
    "fornavn": "Jarle Andre",
-   "gw_poeng": 86,
+   "gw_poeng": 85,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1072,7 +1072,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 1,
+     "poeng": 0,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -1251,7 +1251,7 @@
    ],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 42,
+   "gw_poeng": 43,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Barnes",
@@ -1276,7 +1276,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 1,
+     "poeng": 0,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -1336,7 +1336,7 @@
      "motstander": null,
      "mult": 2,
      "navn": "Barnes",
-     "poeng": 2,
+     "poeng": 4,
      "posisjon": 7,
      "spilt": true,
      "type": 3,
@@ -1439,10 +1439,10 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 6
   },
   "7150571": {
-   "beste_gw_nr": 4,
+   "beste_gw_nr": 6,
    "bytter": [
     {
      "inn": "Calafiori",
