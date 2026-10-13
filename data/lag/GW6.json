@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Hans Magnus",
-   "gw_poeng": 56,
+   "gw_poeng": 62,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Rogers",
@@ -31,25 +31,13 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 9,
+     "lag_kode": 88,
      "motstander": null,
      "mult": 1,
-     "navn": "van Ewijk",
-     "poeng": 6,
+     "navn": "Mendy",
+     "poeng": 3,
      "posisjon": 2,
      "spilt": true,
-     "type": 2,
-     "vise": false
-    },
-    {
-     "kaptein": false,
-     "lag_kode": 56,
-     "motstander": null,
-     "mult": 1,
-     "navn": "Ballard",
-     "poeng": 0,
-     "posisjon": 3,
-     "spilt": false,
      "type": 2,
      "vise": false
     },
@@ -60,22 +48,10 @@
      "mult": 1,
      "navn": "Konsa",
      "poeng": 4,
-     "posisjon": 4,
+     "posisjon": 3,
      "spilt": true,
      "type": 2,
      "vise": true
-    },
-    {
-     "kaptein": false,
-     "lag_kode": 88,
-     "motstander": null,
-     "mult": 1,
-     "navn": "Mendy",
-     "poeng": 3,
-     "posisjon": 5,
-     "spilt": true,
-     "type": 2,
-     "vise": false
     },
     {
      "kaptein": false,
@@ -84,19 +60,31 @@
      "mult": 1,
      "navn": "Vuskovic",
      "poeng": 8,
-     "posisjon": 6,
+     "posisjon": 4,
      "spilt": true,
      "type": 2,
      "vise": false
     },
     {
-     "kaptein": true,
-     "lag_kode": 8,
+     "kaptein": false,
+     "lag_kode": 9,
      "motstander": null,
-     "mult": 2,
-     "navn": "Rogers",
-     "poeng": 18,
-     "posisjon": 7,
+     "mult": 1,
+     "navn": "van Ewijk",
+     "poeng": 6,
+     "posisjon": 5,
+     "spilt": true,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
+     "lag_kode": 54,
+     "motstander": null,
+     "mult": 1,
+     "navn": "King",
+     "poeng": 2,
+     "posisjon": 6,
      "spilt": true,
      "type": 3,
      "vise": false
@@ -108,7 +96,7 @@
      "mult": 1,
      "navn": "Ødegaard",
      "poeng": 1,
-     "posisjon": 8,
+     "posisjon": 7,
      "spilt": true,
      "type": 3,
      "vise": false
@@ -120,6 +108,18 @@
      "mult": 1,
      "navn": "Schade",
      "poeng": 1,
+     "posisjon": 8,
+     "spilt": true,
+     "type": 3,
+     "vise": false
+    },
+    {
+     "kaptein": true,
+     "lag_kode": 8,
+     "motstander": null,
+     "mult": 2,
+     "navn": "Rogers",
+     "poeng": 18,
      "posisjon": 9,
      "spilt": true,
      "type": 3,
@@ -127,14 +127,14 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 54,
+     "lag_kode": 43,
      "motstander": null,
      "mult": 1,
-     "navn": "King",
-     "poeng": 2,
+     "navn": "Haaland",
+     "poeng": 6,
      "posisjon": 10,
      "spilt": true,
-     "type": 3,
+     "type": 4,
      "vise": false
     },
     {
@@ -175,14 +175,14 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 43,
+     "lag_kode": 56,
      "motstander": null,
      "mult": 0,
-     "navn": "Haaland",
-     "poeng": 6,
+     "navn": "Ballard",
+     "poeng": 0,
      "posisjon": 14,
-     "spilt": true,
-     "type": 4,
+     "spilt": false,
+     "type": 2,
      "vise": false
     },
     {
@@ -1870,6 +1870,6 @@
    "verste_gw_nr": 5
   }
  },
- "ferdig": false,
+ "ferdig": true,
  "gw": 6
 }
