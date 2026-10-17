@@ -62,7 +62,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Hans Magnus",
-   "gw_poeng": 32,
+   "gw_poeng": 45,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Haaland",
@@ -166,28 +166,24 @@
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Manzambi",
-     "poeng": 0,
+     "poeng": 11,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 7,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "N.Jackson",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -246,14 +242,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -277,7 +271,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Are",
-   "gw_poeng": 30,
+   "gw_poeng": 32,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -357,14 +351,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -727,7 +719,7 @@
    ],
    "chip": null,
    "fornavn": "Aasmund",
-   "gw_poeng": 28,
+   "gw_poeng": 32,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -765,14 +757,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -821,14 +811,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -944,7 +932,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Didrik",
-   "gw_poeng": 31,
+   "gw_poeng": 30,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1011,7 +999,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Gvardiol",
-     "poeng": 1,
+     "poeng": 0,
      "posisjon": 5,
      "spilt": true,
      "type": 2,
@@ -1135,7 +1123,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "Davis",
-     "poeng": 1,
+     "poeng": 0,
      "posisjon": 15,
      "spilt": true,
      "type": 2,
@@ -1149,7 +1137,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Jarle Andre",
-   "gw_poeng": 32,
+   "gw_poeng": 34,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1173,14 +1161,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1365,7 +1351,7 @@
    ],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 37,
+   "gw_poeng": 38,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1378,7 +1364,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Donnarumma",
-     "poeng": 2,
+     "poeng": 1,
      "posisjon": 1,
      "spilt": true,
      "type": 1,
@@ -1453,14 +1439,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1531,14 +1515,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "AVL (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1633,7 +1615,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Guéhi",
-     "poeng": 2,
+     "poeng": 1,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -1735,7 +1717,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Kelleher",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 12,
      "spilt": true,
      "type": 1,
