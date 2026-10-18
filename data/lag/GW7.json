@@ -86,9 +86,7 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "MUN (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Bogle",
      "poeng": 0,
@@ -114,9 +112,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
      "poeng": 0,
@@ -140,9 +136,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -214,9 +208,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Verbruggen",
      "poeng": 0,
@@ -281,9 +273,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
      "poeng": 0,
@@ -309,9 +299,7 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "MUN (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Muharemović",
      "poeng": 0,
@@ -337,9 +325,7 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Mbeumo",
      "poeng": 0,
@@ -375,9 +361,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -389,9 +373,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kostoulas",
      "poeng": 0,
@@ -455,9 +437,7 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Maguire",
      "poeng": 0,
@@ -523,9 +503,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
      "poeng": 0,
@@ -565,9 +543,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -615,9 +591,7 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "MUN (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
      "poeng": 0,
@@ -667,9 +641,7 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Shaw",
      "poeng": 0,
@@ -729,9 +701,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
      "poeng": 0,
@@ -783,9 +753,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -797,9 +765,7 @@
     {
      "kaptein": false,
      "lag_kode": 1,
-     "motstander": [
-      "LEE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Mbeumo",
      "poeng": 0,
@@ -899,23 +865,19 @@
     {
      "kaptein": false,
      "lag_kode": 56,
-     "motstander": [
-      "BOU (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Hume",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 56,
-     "motstander": [
-      "BOU (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Brobbey",
      "poeng": 0,
@@ -942,9 +904,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
      "poeng": 0,
@@ -956,9 +916,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
      "poeng": 0,
@@ -1046,9 +1004,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -1147,9 +1103,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
      "poeng": 0,
@@ -1199,9 +1153,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
      "poeng": 0,
@@ -1239,9 +1191,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -1399,9 +1349,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
      "poeng": 0,
@@ -1425,9 +1373,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -1475,9 +1421,7 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "MUN (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
      "poeng": 0,
@@ -1570,9 +1514,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
      "poeng": 0,
@@ -1598,9 +1540,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
      "poeng": 0,
@@ -1650,9 +1590,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
      "poeng": 0,
@@ -1676,9 +1614,7 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "MUN (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
      "poeng": 0,
@@ -1826,9 +1762,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
      "poeng": 0,
@@ -1852,9 +1786,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Gomez",
      "poeng": 0,
@@ -1890,9 +1822,7 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "MUN (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
      "poeng": 0,
@@ -1928,9 +1858,7 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "CRY (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Verbruggen",
      "poeng": 0,
@@ -1954,9 +1882,7 @@
     {
      "kaptein": false,
      "lag_kode": 31,
-     "motstander": [
-      "BHA (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Mitchell",
      "poeng": 0,
