@@ -216,14 +216,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Rudoni",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -401,14 +399,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -611,9 +607,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -817,14 +811,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1271,7 +1263,7 @@
    ],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 58,
+   "gw_poeng": 59,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1305,14 +1297,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van de Ven",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1415,9 +1405,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
