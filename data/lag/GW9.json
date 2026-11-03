@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Hans Magnus",
-   "gw_poeng": 49,
+   "gw_poeng": 57,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Haaland",
@@ -32,28 +32,24 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "NEW (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -416,14 +412,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -664,7 +658,7 @@
    ],
    "chip": null,
    "fornavn": "Aasmund",
-   "gw_poeng": 42,
+   "gw_poeng": 46,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -686,14 +680,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -760,14 +752,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -856,7 +846,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 8
+   "verste_gw_nr": 9
   },
   "4068784": {
    "beste_gw_nr": 2,
@@ -1263,9 +1253,9 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Torbjørn",
-   "gw_poeng": 37,
+   "gw_poeng": 39,
    "har_beste_gw": false,
-   "har_verste_gw": false,
+   "har_verste_gw": true,
    "kaptein": "Haaland",
    "lagnavn": "Måloverskott",
    "trekk": 0,
@@ -1345,14 +1335,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barnes",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1419,14 +1407,12 @@
     {
      "kaptein": false,
      "lag_kode": 4,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Hall",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1455,7 +1441,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 6
+   "verste_gw_nr": 9
   },
   "7150571": {
    "beste_gw_nr": 6,
