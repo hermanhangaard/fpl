@@ -12,7 +12,7 @@
    "fornavn": "Hans Magnus",
    "gw_poeng": 42,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "N.Jackson",
    "lagnavn": "Hans Magnus's Team",
    "trekk": 0,
@@ -402,7 +402,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 11
   },
   "3654880": {
    "beste_gw_nr": 2,
@@ -602,7 +602,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 11
   },
   "3804484": {
    "beste_gw_nr": 2,
@@ -614,7 +614,7 @@
    ],
    "chip": null,
    "fornavn": "Aasmund",
-   "gw_poeng": 32,
+   "gw_poeng": 38,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -648,14 +648,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Ajer",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -804,7 +802,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 9
+   "verste_gw_nr": 11
   },
   "4068784": {
    "beste_gw_nr": 2,
@@ -982,14 +980,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Schade",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1006,7 +1002,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 11
   },
   "5100037": {
    "beste_gw_nr": 6,
@@ -1254,9 +1250,9 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Torbjørn",
-   "gw_poeng": 24,
+   "gw_poeng": 22,
    "har_beste_gw": false,
-   "har_verste_gw": false,
+   "har_verste_gw": true,
    "kaptein": "Groß",
    "lagnavn": "Måloverskott",
    "trekk": 0,
@@ -1288,14 +1284,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tarkowski",
-     "poeng": 0,
+     "poeng": -4,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1374,14 +1368,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1446,7 +1438,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 9
+   "verste_gw_nr": 11
   },
   "7150571": {
    "beste_gw_nr": 6,
@@ -1600,14 +1592,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kelleher",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1655,7 +1645,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 32,
+   "gw_poeng": 33,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1713,14 +1703,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Schade",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1845,7 +1833,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 11
   }
  },
  "ferdig": false,
